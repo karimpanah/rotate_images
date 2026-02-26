@@ -28,10 +28,11 @@ A simple Python script using Pillow (PIL) to batch-rotate all images in a folder
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
-    cd YOUR_REPOSITORY_NAME
+    git clone [https://github.com/karimpanah/rotate_images.git](https://github.com/karimpanah/rotate_images.git)
+    
+    cd rotate_images
     ```
-    (Replace `YOUR_USERNAME` and `YOUR_REPOSITORY_NAME` with your actual GitHub info)
+    (Replace `karimpanah` and `rotate_images` with your actual GitHub info)
 
 2.  **Install the required library (Pillow):**
     ```bash
